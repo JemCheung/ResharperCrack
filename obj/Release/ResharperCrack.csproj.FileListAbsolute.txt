@@ -1,0 +1,16 @@
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResharperCrack.csproj.GenerateResource.Cache
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ResharperCrack.exe.config
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ResharperCrack.exe
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ResharperCrack.pdb
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResharperCrack.Properties.Resources.resources
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResharperCrack.exe
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResharperCrack.pdb
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\bin\Release\ResharperCrack.exe.config
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Release\ResharperCrack.exe
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Release\ResharperCrack.pdb
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\bin\Release\ResharperCrack.exe
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\bin\Release\ResharperCrack.pdb
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Release\ResharperCrack.Properties.Resources.resources
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Release\ResharperCrack.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\cjb94\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\bin\Debug\ResharperCrack.exe.config
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\bin\Debug\ResharperCrack.exe
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\bin\Debug\ResharperCrack.pdb
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.csprojResolveAssemblyReference.cache
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.Properties.Resources.resources
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.csproj.GenerateResource.Cache
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.exe
+C:\Users\greedy\Dropbox\破解\搭建本地reshaper服务器服务\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.pdb
