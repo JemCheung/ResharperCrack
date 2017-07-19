@@ -1,0 +1,2 @@
+# ResharperCrack
+ResharperCrack
