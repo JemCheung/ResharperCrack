@@ -1,0 +1,16 @@
+搭建本地reshaper服务器服务说明
+管理员权限运行下面的指令
+instsrv {tjserver（服务名）} {C:\Windows\System32\srvany.exe（程序的绝对路径）}
+
+执行成功之后 进入注册表编辑器（运行指令：RegEdit）
+可以看到在该路径下生成
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tjserver\Parameters]
+然后将以下指令保存为注册表（如文件importRegedit.reg）并执行（路径自己调整为IntelliJIDEALicenseServer_windows_amd64.exe的实际路径）
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tjserver\Parameters]
+"Application"="C:\\\\Users\\\\greedy\\\\Dropbox\\\\破解\\\\IntelliJIDEALicenseServer_windows_amd64.exe"
+"AppDirectory"="C:\\\\Users\\\\greedy\\\\Dropbox\\\\破解"
+"AppParameters"=""
+
+然后在vs中打开resharper注册添加服务器地址127.0.0.1:41017保存并启用即可（无视黄色叹号警告，这时候已经注册完毕了）
